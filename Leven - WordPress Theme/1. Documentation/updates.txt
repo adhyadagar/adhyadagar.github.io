@@ -1,0 +1,181 @@
+==============================================================
+Leven WordPress Theme Updates
+==============================================================
+
+==============================================================
+v1.0
+==============================================================
+
+Initial release
+
+
+
+==============================================================
+v1.1.0 - 9 January 2020
+==============================================================
+New Feature: Home Page Third Style. The most flexible home page, a large number of design settings, the ability to add image or video as a background. In the demo these are pages About Me 3, 4, 5, 6.
+New Feature: Added new demo content.
+New feature: Added 6 new animated page transition effects.
+New Feature: Theme Settings: Added the ability to change the border radius of the area with content.
+New Feature: Theme Settings: Added the ability to turn off the box shadow of the content area.
+Improved: Styles.
+Improved: Contact Form: PHP code.
+Improved: JS code.
+Improved: Home Page 1 & 2: Added subtitle carousel.
+
+
+What you need to update:
+1. Leven Theme (v1.1.0)
+2. Leven Shortcodes Plugin (v1.1.0)
+3. Leven Contact Form Plugin (v1.1.0) 
+
+
+
+==============================================================
+v1.2.0 - 22 January 2020
+==============================================================
+New Feature: Scroll to top button
+Improved: Pages loading speed
+Improved: CSS Styles
+Improved: Animated background
+Improved: JS code
+Improved: Tesimonials Slider
+
+
+What you need to update:
+1. Leven Theme (v1.2.0)
+2. Leven Shortcodes Plugin (v1.2.0)
+
+
+
+==============================================================
+v1.2.1 - 07 February 2020
+==============================================================
+Improved: Home Page Style 1: Added the ability to disable the animation effect for the image (Feature Request)
+Improved: Animated background
+Improved: Improved compatibility with JetPack plugin
+Improved: Contact form styles
+Improved: JS code
+
+
+What you need to update:
+1. Leven Theme (v1.2.1)
+2. Leven Shortcodes Plugin (v1.2.1)
+
+
+
+==============================================================
+v1.3.0 - 12 February 2020
+==============================================================
+New Feature: Dark Theme Version
+New Feature: 2 New Demos
+
+
+What you need to update:
+1. Leven Theme (v1.3.0)
+2. Leven Shortcodes Plugin (v1.3.0)
+
+
+
+==============================================================
+v1.4.0 - 14 April 2020
+==============================================================
+Improved: The theme is optimized for WordPress 5.4
+Improved: Improved theme customization code
+
+
+What you need to update:
+1. Leven Theme (v1.4.0)
+
+
+
+==============================================================
+v1.5.0 - 09 July 2020
+==============================================================
+New Feature: Added the ability to disable page transitions
+New Feature: Theme Settings: Added a new section (Advanced): Added the ability to individually disable share buttons
+Improved: Changed version of Google Maps API JS
+Improved: Styles
+Improved: JS code
+
+
+What you need to update:
+1. Leven Theme (v1.5.0)
+2. Leven Shortcodes Plugin (v1.4.0)
+3. Leven Share Buttons Plugin (v1.1.0)
+
+
+
+==============================================================
+v1.5.1 - 26 August 2020
+==============================================================
+Improved: Styles
+Improved: Child Theme
+
+
+What you need to update:
+1. Leven Theme (v1.5.1)
+2. Leven Child Theme (v1.1.0)
+
+
+
+==============================================================
+v1.5.2 - 09 September 2020
+==============================================================
+Improved: Styles
+Improved: PHP code
+
+
+What you need to update:
+1. Leven Theme (v1.5.2)
+2. Leven Shortcodes Plugin (v1.5.0)
+
+
+
+==============================================================
+v1.5.3 - 02 October 2020
+==============================================================
+Improved: PHP code
+
+
+What you need to update:
+1. Leven Theme (v1.5.3)
+2. Leven Shortcodes Plugin (v1.5.1)
+
+
+==============================================================
+v1.5.4 - 15 December 2020
+==============================================================
+Improved: PHP code
+Improved: Portfolio: Load More
+
+
+What you need to update:
+1. Leven Theme (v1.5.4)
+2. Leven Shortcodes Plugin (v1.5.2)
+3. Leven Portfolio Plugin (v1.1.0)
+
+
+==============================================================
+v1.6.0 - 10 February 2021
+==============================================================
+Improved: PHP code
+Improved: Styles
+New Feature: Added the ability to turn columns into sliders with any content.
+
+What you need to update:
+1. Leven Theme (v1.6.0)
+2. Leven Shortcodes Plugin (v1.6.0)
+
+
+
+==============================================================
+v1.6.1 - 22 April 2021
+==============================================================
+Improved: PHP code
+Improved: Styles
+New Feature: New Shortcode: Map New
+
+What you need to update:
+1. Leven Theme (v1.6.1)
+2. Leven Shortcodes Plugin (v1.6.1)
